@@ -1,5 +1,5 @@
 <h1>MARGIN MARKUP</h1>
-The food pricing software.
+The food pricing tt software.
 
 -------------------------------------------------------------------- 
                   The Omkarsoft License, version 1.0
